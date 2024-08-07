@@ -13,6 +13,10 @@ html, body{
     width: 100%;
     overflow-x: hidden;
 }
+@font-face {
+    font-family: Futura;
+    src: url(./Futura-Bold\ \(1\).woff2);
+}
 .page1{
     min-height: 100vh;
     position: relative;
